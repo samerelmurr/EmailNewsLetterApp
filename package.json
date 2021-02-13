@@ -1,0 +1,17 @@
+{
+  "name": "emailnewsletterapp",
+  "version": "1.0.0",
+  "description": "Simple Email newsletter app that collects emails for a company so that the company can email the customers on the list.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samer El-Murr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2"
+  }
+}
